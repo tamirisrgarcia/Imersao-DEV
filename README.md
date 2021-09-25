@@ -8,7 +8,9 @@ Os projetos foram desenvolvidos no Codepen.
 
 
 
-1 - Calculadora de Média e de Temperatura:
+1 - Calculadora de Média e de Temperatura
+
+
 ![Calculadora de Media](https://user-images.githubusercontent.com/87827996/134784479-be7c78d8-009b-49ae-b83e-994e15d4142a.PNG)
 
 ![Conversor Temperatura](https://user-images.githubusercontent.com/87827996/134784482-20a8215b-ae6f-4dd6-933d-454aceff98ed.PNG)
