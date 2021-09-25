@@ -22,16 +22,10 @@ JavaScript.
 
 Calculadora elaborada para verificar se o estudante foi aprovado ou não no ano letivo. Solicita-se as quatro notas das provas realizadas e é calculado a média das mesmas. Caso o aluno consiga média superior a 70%, o computador emite a mensagem de que ele foi aprovado.
 
-![Calculadora de Media](D:\Users\Tamiris RGC\Desktop\Imersão Dev - Alura\Imersao-DEV\Calculadora de Media e Temperatura\Calculadora de Media.PNG)
-
-
 
 ##### Conversor de Temperatura
 
 Permite converter a temperatura de graus Celsius para Fahrenheit e vice-versa.
-
-![Conversor Temperatura](D:\Users\Tamiris RGC\Desktop\Imersão Dev - Alura\Imersao-DEV\Calculadora de Media e Temperatura\Conversor Temperatura.PNG)
-
 
 
 #### Desafio 2
@@ -40,14 +34,9 @@ Permite converter a temperatura de graus Celsius para Fahrenheit e vice-versa.
 
 Permite converter o valor em Real (R$) para Dólar ou Euro, considerando os valores referentes ao dia 14 de setembro de 2021.
 
-![ConversorMoeda](D:\Users\Tamiris RGC\Desktop\Imersão Dev - Alura\Imersao-DEV\Conversor de Moeda\ConversorMoeda.PNG) 
-
-
 
 #### Desafio 3
 
 ##### O Mentalista
 
 Solicita que o participante escolha um número entre 0 e 10 aleatoriamente e, caso acerte, o computador emitirá uma mensagem de acerto.
-
-![Mentalista](D:\Users\Tamiris RGC\Desktop\Imersão Dev - Alura\Imersao-DEV\Mentalista\Mentalista.PNG)
