@@ -29,11 +29,11 @@ Permite converter a temperatura de graus Celsius para Fahrenheit e vice-versa.
 
 #### Desafio 2:
 
-#### Conversor de Moedas:
+##### Conversor de Moedas:
 Permite converter o valor em Real (R$) para Dólar ou Euro, considerando os valores referentes ao dia 14 de setembro de 2021.
 
 
 #### Desafio  3:
 
-#### O Mentalista:
-Solicita que o participante escolha um número entre 0 e 10 aleatoriamente e, caso acerte, o computador emitirá uma mensagem de acerto.
+##### O Mentalista:
+Solicita que o participante escolha um número entre 0 e 10 e, caso acerte, o computador emitirá uma mensagem de acerto.
