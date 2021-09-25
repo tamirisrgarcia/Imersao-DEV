@@ -2,7 +2,7 @@ IMERSÃO DEV - ALURA 2021
 
 
 Olá! Tudo bem? 
-Este repositório foi criado para  disponibilizar os trabalhos realizados durante a Imersão DEV - Alura 2021.
+Este repositório foi criado para  disponibilizar os trabalhos realizados durante a Imersão DEV - Alura.
 
 
 Os projetos foram desenvolvidos no Codepen.
