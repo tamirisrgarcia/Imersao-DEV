@@ -46,7 +46,7 @@ Desafio 3:
 
 
 Mentalista:
-Permite que a pessoa escolha um número entre 0 e 10 aleatoriamente, e caso a pessoa acerte, o computador emitirá uma mensagem de acerto.
+Permite que a pessoa escolha um número entre 0 e 10 aleatoriamente e, caso essa pessoa acerte, o computador emite uma mensagem de acerto.
 
 ![Mentalista](https://user-images.githubusercontent.com/87827996/134784507-f676794e-b895-4594-ab36-c1a72196aa35.PNG)
 
