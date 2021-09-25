@@ -5,3 +5,4 @@ Este repositório foi criado para  disponibilizar os trabalhos realizados durant
 
 1 - Calculadora de Média e de Temperatura
 2 - Conversor de Moeda
+3 - Mentalista
